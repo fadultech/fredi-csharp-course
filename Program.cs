@@ -37,8 +37,6 @@ namespace dotnetcore
             Console.WriteLine(p.versao);
             Console.WriteLine(hello);
 
-            // Teste
-
         }
     }
 
