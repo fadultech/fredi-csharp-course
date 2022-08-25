@@ -1,19 +1,8 @@
-# A .NET Core CLI template on Gitpod
+This repository has practical examples of Fredi Machado's Dominating C# do Zero course.
 
-This is a [.NET Core CLI](https://docs.microsoft.com/en-us/dotnet/core/introduction) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
+What the largest development companies most expect from their developers, as well as knowledge and experience? Is the motivation to acquire more knowledge. 
 
-## Next Steps
+Especially in this area, which is constantly evolving and the developer who stands out wants to learn more, whenever possible. 
 
-Click the button below to start a new development environment:
+The purpose of this course is to provide a definitive language guide that can be used as a reference for the C# developer, with intermediate and advanced content, presented in practice.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-dotnet-core-cli-csharp)
-
-## Get Started With Your Own Project
-
-### A new project
-
-Click the above "Open in Gitpod" button to start a new workspace. Once you're ready to push your first code changes, Gitpod will guide you to fork this project so you own it.
-
-### An existing project
-
-To get started with .NET Core CLI on Gitpod, add a [`.gitpod.yml`](./.gitpod.yml) file which contains the configuration to improve the developer experience on Gitpod. To learn more, please see the [Getting Started](https://www.gitpod.io/docs/getting-started) documentation.
