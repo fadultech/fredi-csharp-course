@@ -1,4 +1,4 @@
-This repository has practical examples of Fredi Machado's Dominating C# do Zero course.
+This repository has practical examples of Fredi Machado's Dominating C# from Zero course.
 
 What the largest development companies most expect from their developers, as well as knowledge and experience? Is the motivation to acquire more knowledge. 
 
