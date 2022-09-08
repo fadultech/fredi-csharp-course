@@ -4,13 +4,12 @@ namespace dotnetcore
 {
     class Program
     {
-        static void Main(string[] v)
+        static int Main()
         {
             // usando array
             string[] names = { "Fredi", "Carlos" };
 
-            Console.WriteLine(v[0]);
-            Console.WriteLine(v[1]);
+            return 1;
         }
 
     }
