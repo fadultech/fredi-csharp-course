@@ -6,23 +6,21 @@ namespace dotnetcore
     {
         static void Main()
         {
-            // usando array
-            string[] names = { "Fredi", "Carlos" };
-            // Strings são Case Sensitive
-            if(names[0]=="fredi")
-            {
-                Console.WriteLine("Igual");
-            }else {
-            // Usando Foreach
-            foreach (string name in names)
-            {
-                Console.WriteLine(name);
-            }
-            }
+            Test t = new Test();
+            t.x = 10;
+
+            Test t2 = t1;
+            t2.x = 20;
+
+            Console.WriteLine(t.x);
 
         }
 
     }
+    class Test{
+        public int x;
+    }
+
 }
 
 
