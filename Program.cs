@@ -9,7 +9,7 @@ namespace dotnetcore
             // usando array
             string[] names = { "Fredi", "Carlos" };
 
-            for (int i = 0; i < 2; i++)
+            for (int i = 0; i < names.Length; i++)
             {
                 Console.WriteLine(names[i]);
             }
