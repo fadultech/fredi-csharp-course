@@ -8,10 +8,16 @@ namespace dotnetcore
         {
             // usando array
             string[] names = { "Fredi", "Carlos" };
-
-            for (int i = 0; i < names.Length; i++)
+            // Strings são Case Sensitive
+            if(names[0]=="fredi")
             {
-                Console.WriteLine(names[i]);
+                Console.WriteLine("Igual");
+            }else {
+            // Usando Foreach
+            foreach (string name in names)
+            {
+                Console.WriteLine(name);
+            }
             }
 
         }
