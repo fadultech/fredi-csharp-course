@@ -13,11 +13,13 @@ namespace dotnetcore
             t2.x = 20;
 
             Console.WriteLine(t.x);
+            Console.WriteLine(t2.x);
 
         }
 
     }
-    class Test{
+    class Test
+    {
         public int x;
     }
 
